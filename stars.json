@@ -1,45 +1,45 @@
 [
   {
     "full_name": "mik3y/airdash",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 6,
     "forks_count": 1
   },
   {
     "full_name": "rsalmei/alive-progress",
-    "stargazers_count": 3025,
+    "stargazers_count": 3036,
     "open_issues_count": 30,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "willmcgugan/rich",
-    "stargazers_count": 34227,
-    "open_issues_count": 40,
-    "forks_count": 1102
+    "stargazers_count": 34364,
+    "open_issues_count": 41,
+    "forks_count": 1106
   },
   {
     "full_name": "hediet/vscode-debug-visualizer",
-    "stargazers_count": 7154,
+    "stargazers_count": 7153,
     "open_issues_count": 51,
-    "forks_count": 344
+    "forks_count": 343
   },
   {
     "full_name": "chadgeary/cloudblock",
     "stargazers_count": 490,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 45
   },
   {
     "full_name": "vmstan/gravity-sync",
-    "stargazers_count": 947,
+    "stargazers_count": 952,
     "open_issues_count": 11,
     "forks_count": 61
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 14338,
+    "stargazers_count": 14369,
     "open_issues_count": 36,
-    "forks_count": 2028
+    "forks_count": 2031
   },
   {
     "full_name": "sanathp/statusok",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "Hammerspoon/hammerspoon",
-    "stargazers_count": 8671,
-    "open_issues_count": 428,
-    "forks_count": 443
+    "stargazers_count": 8683,
+    "open_issues_count": 429,
+    "forks_count": 445
   },
   {
     "full_name": "chubin/wttr.in",
-    "stargazers_count": 16739,
-    "open_issues_count": 170,
-    "forks_count": 814
+    "stargazers_count": 16772,
+    "open_issues_count": 171,
+    "forks_count": 815
   },
   {
     "full_name": "schachmat/wego",
-    "stargazers_count": 6945,
+    "stargazers_count": 6946,
     "open_issues_count": 43,
     "forks_count": 437
   },
   {
     "full_name": "timburgan/timburgan",
-    "stargazers_count": 607,
+    "stargazers_count": 612,
     "open_issues_count": 26,
-    "forks_count": 90
+    "forks_count": 89
   },
   {
     "full_name": "samyk/awesome-raspberrypi",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "novnc/noVNC",
-    "stargazers_count": 8373,
+    "stargazers_count": 8381,
     "open_issues_count": 46,
-    "forks_count": 1749
+    "forks_count": 1750
   },
   {
     "full_name": "elewin/pi-weather-station",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "jacobalberty/unifi-docker",
-    "stargazers_count": 1333,
-    "open_issues_count": 71,
-    "forks_count": 345
+    "stargazers_count": 1334,
+    "open_issues_count": 65,
+    "forks_count": 344
   },
   {
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 10258,
-    "open_issues_count": 509,
-    "forks_count": 1002
+    "stargazers_count": 10292,
+    "open_issues_count": 516,
+    "forks_count": 1003
   },
   {
     "full_name": "mikenye/docker-readsb",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "wiedehopf/graphs1090",
-    "stargazers_count": 205,
+    "stargazers_count": 207,
     "open_issues_count": 4,
     "forks_count": 27
   },
   {
     "full_name": "BurntSushi/ripgrep",
-    "stargazers_count": 29098,
+    "stargazers_count": 29149,
     "open_issues_count": 137,
-    "forks_count": 1317
+    "forks_count": 1324
   },
   {
     "full_name": "wiedehopf/tar1090",
-    "stargazers_count": 524,
-    "open_issues_count": 16,
-    "forks_count": 98
+    "stargazers_count": 530,
+    "open_issues_count": 18,
+    "forks_count": 101
   },
   {
     "full_name": "dgiardini/rtl-ais",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "jivoi/awesome-osint",
-    "stargazers_count": 8108,
-    "open_issues_count": 4,
-    "forks_count": 1741
+    "stargazers_count": 8130,
+    "open_issues_count": 7,
+    "forks_count": 1746
   },
   {
     "full_name": "amiantos/pibar",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "Lissy93/personal-security-checklist",
-    "stargazers_count": 2476,
+    "stargazers_count": 2492,
     "open_issues_count": 16,
-    "forks_count": 268
+    "forks_count": 269
   },
   {
     "full_name": "joke2k/faker",
-    "stargazers_count": 13591,
-    "open_issues_count": 173,
-    "forks_count": 1556
+    "stargazers_count": 13634,
+    "open_issues_count": 175,
+    "forks_count": 1567
   },
   {
     "full_name": "debauchee/barrier",
-    "stargazers_count": 15639,
-    "open_issues_count": 725,
-    "forks_count": 932
+    "stargazers_count": 15699,
+    "open_issues_count": 728,
+    "forks_count": 933
   },
   {
     "full_name": "lk-geimfari/mimesis",
     "stargazers_count": 3459,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 282
   },
   {
     "full_name": "BullsEye0/google_dork_list",
-    "stargazers_count": 924,
+    "stargazers_count": 927,
     "open_issues_count": 1,
-    "forks_count": 235
+    "forks_count": 236
   }
 ]
